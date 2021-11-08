@@ -1,0 +1,16 @@
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.exe
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.deps.json
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.runtimeconfig.json
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.runtimeconfig.dev.json
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.dll
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\ref\OperatorExercise2.dll
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\bin\Debug\net5.0\OperatorExercise2.pdb
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.csproj.AssemblyReference.cache
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.AssemblyInfoInputs.cache
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.AssemblyInfo.cs
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.csproj.CoreCompileInputs.cache
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.dll
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\ref\OperatorExercise2.dll
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.pdb
+C:\Users\forre\source\repos\OperatorExercise2\OperatorExercise2\obj\Debug\net5.0\OperatorExercise2.genruntimeconfig.cache
